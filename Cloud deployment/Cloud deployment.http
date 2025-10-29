@@ -1,0 +1,6 @@
+@Cloud_deployment_HostAddress = http://localhost:5019
+
+GET {{Cloud_deployment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
